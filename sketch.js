@@ -326,7 +326,7 @@ function draw() {
 
   if (kanyespri.collide (solo)){
     vmaspri.visible = true;
-    vmaspri.velocityX = -12;
+    vmaspri.velocityX = -10;
   }
 
   if (vmaspri.x < -20){
